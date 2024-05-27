@@ -26,11 +26,17 @@ Follow these steps to set up the project locally:
 ```
 After cloning the repo locate the project dir and run the following command in the terminal
 
-2. **Install the dependencies:**
+2. **Google API KEY**:Go to this site to generate api key [HERE](https://aistudio.google.com) You can see left side generate api thn click and copy. Once you have the api key, locate the .env file in your project directory. Open it and paste your aoi key like this:
+  ```dotenv
+  GOOGLE_API_KEY = "paste the api key here"
+  ```
+
+3. **Install the dependencies:**
  ```bash
      pip install -r requirements.txt
 ```
-3. **Run the Streamlit app:**
+
+4. **Run the Streamlit app:**
 ```bash
    streamlit run app.py
 ```
@@ -45,4 +51,10 @@ For any questions or suggestions, feel free to reach out:
 - Suriya
 - Email [Here](mailto:thesuriya3@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/suriya-s-83b25524a)
+
+## Acknowledgements
+
+- [Streamlit](https://streamlit.io/)
+- [Google Gemini API](https://developers.google.com/gemini)
+- [Hugging Face Spaces](https://huggingface.co/spaces)
 
