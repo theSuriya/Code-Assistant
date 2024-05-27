@@ -43,6 +43,6 @@ After cloning the repo locate the project dir and run the following command in t
 For any questions or suggestions, feel free to reach out:
 
 - Suriya
-Email [Here](mailto:thesuriya3@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/suriya-s-83b25524a)
+- Email [Here](mailto:thesuriya3@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/suriya-s-83b25524a)
 
