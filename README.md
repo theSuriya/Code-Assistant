@@ -22,7 +22,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/theSuriya/Code-Assistant
+   git clone https://github.com/theSuriya/Code-Assistant.git
 ```
 After cloning the repo locate the project dir and run the following command in the terminal
 
