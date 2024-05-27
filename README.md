@@ -50,7 +50,7 @@ Go to this site to generate api key [HERE](https://aistudio.google.com) You can 
 For any questions or suggestions, feel free to reach out:
 
 - Suriya
-- Email [Here](mailto:thesuriya3@gmail.com)
+- [Mail](mailto:thesuriya3@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/suriya-s-83b25524a)
 
 ## Acknowledgements
