@@ -2,7 +2,9 @@ import streamlit as st
 import os
 import google.generativeai as genai
 import time
+from dotenv import load_dotenv
 
+load_dotenv()
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
